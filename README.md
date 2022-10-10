@@ -1,6 +1,6 @@
 # JIRA-Docker
 
-> docker 一键部署 JIRA 破解版
+> docker 一键部署 JIRA
 
 ------
 
